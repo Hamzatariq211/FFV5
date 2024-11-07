@@ -1,1 +1,1 @@
-web: gunicorn FFV5.wsgi
+web: gunicorn backend.wsgi
