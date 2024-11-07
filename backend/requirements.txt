@@ -1,3 +1,6 @@
-Django>=3.0,<4.0  # Django framework for your project
-gunicorn  # WSGI server needed for deploying Django on platforms like Heroku
-psycopg2-binary  # PostgreSQL adapter for Django if you're using a PostgreSQL database
+Django>=3.0,<4.0
+gunicorn
+psycopg2-binary
+# Additional dependencies
+# djangorestframework
+# pillow
