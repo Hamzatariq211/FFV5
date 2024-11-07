@@ -1,6 +1,4 @@
 Django>=3.0,<4.0
 gunicorn
 psycopg2-binary
-# Additional dependencies
-# djangorestframework
-# pillow
+djangorestframework
