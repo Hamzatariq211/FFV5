@@ -28,7 +28,9 @@ SECRET_KEY = 'django-insecure-$&1&b_5&%07+03#i_6cpr7&#gls6z3np-wo&#@xcu%a+6(0&q=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "fusionflare-02ef9f77a95d.herokuapp.com",
+]
 
 
 # Application definition
