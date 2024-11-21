@@ -1,0 +1,5 @@
+*/__pycache__/*.cpython-312.pyc
+venv
+*.cpython-312.pyc
+*.pyc
+__pycache__
